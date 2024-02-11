@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 
-## 作りかけのプロダクト
+## 作りかけのプロダクト・アイディア
+適当に利用して(CCby0)勝手に作ってもらっても嬉しい
 
 ### iOS
 - バックグラウンドで稼働するロガーとヒートマップ、ダイジェストの表示機能
@@ -26,6 +27,7 @@ Here are some ideas to get you started:
 - 店舗区画推測くん (RoomPlanを用いたIndoor Mapping支援ツール)
 - Object Captureを用いたおもちゃ
 - 家具配置太郎 (ARKit True Depth 習作 / 任意の大きさのオブジェクトを)
+- appleペンシル入力対応のマッピング (OverP)
 
 ### Web
 - くつコミ(靴の口コミ共有サイト)
@@ -33,7 +35,16 @@ Here are some ideas to get you started:
 - Open Menu (オープンデータを前提とした飲食店メニューの共有プロジェクト・価格推移データベース)
 - 国道レイヤー(大規模レイヤーのDeckGLへの読み込み切り替え機能習作)
 - 学内食堂表示機 (アクセスした時刻での学食の営業状況の可視化テンプレ)
+- 自分用レンタサイクルVlog用サイト (レンタサイクルのVlogを自分用に投稿するシステム at Hono.js / HLS / MapLibre アニメーション)
+- GPX / XMLのgeojsonコンバータ
+- GPX / XML / GeoJSON からのアニメーションレンダリング
+- Loader.jsを利用したCityGMLからglb/fbxの取り出し
+- ついタコ (TwitterのLogin Authを利用した他己紹介サイト ブルスコでも作れそう)
+- 記者ペディア (記者の過去の記事を集約)
 
+### その他
+- Stepmaniaのシンプルなクローン Swift or Tauri実装 (SSCファイル/smファイルのパーサ)
+- Rust実装のTweetアプリ / ブルースカイへのpush (クリップボードからのtmp領域への画像、動画の格納 / 判定後にアップロード)
 
 
 
