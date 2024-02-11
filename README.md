@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 - Loader.jsを利用したCityGMLからglb/fbxの取り出し
 - ついタコ (TwitterのLogin Authを利用した他己紹介サイト ブルスコでも作れそう)
 - 記者ペディア (記者の過去の記事を集約)
+- ロングポーリングを利用した位置情報の共有
 
 ### その他
 - Stepmaniaのシンプルなクローン Swift or Tauri実装 (SSCファイル/smファイルのパーサ)
