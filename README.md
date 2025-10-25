@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 - カタイプリン.com (プリンの3Dモデル共有サイト)
 - Open Menu (オープンデータを前提とした飲食店メニューの共有プロジェクト・価格推移データベース)
 - 国道レイヤー(大規模レイヤーのDeckGLへの読み込み切り替え機能習作) ✅ [リンク](https://alt9800.github.io/visualization/prefecture-viewer/)
-- 学内食堂表示機 (アクセスした時刻での学食の営業状況の可視化テンプレ)
+- 学内食堂表示機 (アクセスした時刻での学食の営業状況の可視化テンプレ) 
 - 自分用レンタサイクルVlog用サイト (レンタサイクルのVlogを自分用に投稿するシステム at Hono.js / HLS / MapLibre アニメーション)
 - GPX / XMLのgeojsonコンバータ
 - GPX / XML / GeoJSON からのアニメーションレンダリング
-- Loader.jsを利用したCityGMLからglb/fbxの取り出し
+- Loaders.GLを利用したCityGMLからglb/fbxの取り出し
 - ついタコ (TwitterのLogin Authを利用した他己紹介サイト ブルスコでも作れそう)
 - 記者ペディア (記者の過去の記事を集約)
 - ロングポーリングを利用した位置情報の共有
